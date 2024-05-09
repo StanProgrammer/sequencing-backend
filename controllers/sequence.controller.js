@@ -1,6 +1,6 @@
 const Sequence = require('../models/sequence.model');
 const { processNode} = require('../config/mock_email');
-const jwt = require('jsonwebToken');
+const jwt = require('jsonwebtoken');
 
 
 exports.verifyToken=(req, res) => {
