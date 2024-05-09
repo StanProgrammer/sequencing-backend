@@ -3,7 +3,8 @@ This is a backend of an application that allows users to design and implement an
 
 
 
-## Deployed url: https://sequencing-frontend.onrender.com/
+## Deployed url: 
+https://sequencing-frontend.onrender.com/
 
 
 ## NOTE: 
